@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-playing-now.davidgilkeson.vercel.app/api/spotify-playing" alt="David G Spotify Playing" width="350" />](https://open.spotify.com/user/gilky147)
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### Connect with me:
 
