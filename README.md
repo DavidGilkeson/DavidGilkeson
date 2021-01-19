@@ -5,7 +5,7 @@
 ## I'm a Developer, Creator and Designer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects, Learn Python
+- 🥅 2021 Goals: Contribute more to Open Source projects, Learn Python, Learn Ethical Hacking and Machine Learning
 - ⚡ Fun fact: I play hurling and pool as a hobby!
 
 ### Spotify Playing 🎧
